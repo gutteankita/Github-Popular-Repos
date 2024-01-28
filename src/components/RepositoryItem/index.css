@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.repo-lists {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  width: 290px;
+}
+
+.avtar-img {
+  height: 100px;
+  width: 100px;
+  margin-top: 5px;
+}
+
+.repo-lists {
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+}
+
+.name-heading {
+  font-size: 24px;
+  color: #e73959;
+}
+.counts-img {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}

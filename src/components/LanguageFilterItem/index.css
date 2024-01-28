@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.lists {
+  list-style-type: none;
+  font-size: 22px;
+  font-weight: bold;
+  /* color: #0f172a; */
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 80px;
+  outline: none;
+  border-style: none;
+  background-color: transparent;
+}
+
+.active-lang {
+  border-radius: 10px;
+  padding: 7px;
+  color: #0f172a;
+
+  border: 2px solid #0284c7;
+}
